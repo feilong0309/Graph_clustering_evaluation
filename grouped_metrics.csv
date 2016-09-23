@@ -1,0 +1,54 @@
+metric,name,value,n,network_id,clustering_id
+Adjusted Rand Score,blondel,0.0897692141737,10000.0,2.0,1.5
+Adjusted Rand Score,infomap,0.108432182199,10000.0,2.0,1.5
+Adjusted Rand Score,label_propagation,0.190698874226,10000.0,2.0,1.5
+Adjusted Rand Score,modularity_optimization,0.0570399416465,10000.0,2.0,1.5
+Adjusted Rand Score,oslom,0.221401707033,10000.0,2.0,1.5
+Conductance,blondel,0.250766666667,10000.0,2.0,1.5
+Conductance,gold_standard,0.417633333333,10000.0,2.0,1.0
+Conductance,infomap,0.366733333333,10000.0,2.0,1.5
+Conductance,label_propagation,0.373033333333,10000.0,2.0,1.5
+Conductance,modularity_optimization,0.3294,10000.0,2.0,1.5
+Conductance,oslom,0.428666666667,10000.0,2.0,1.5
+Coverage,blondel,0.443533333333,10000.0,2.0,1.5
+Coverage,gold_standard,0.5322,10000.0,2.0,1.0
+Coverage,infomap,0.5229,10000.0,2.0,1.5
+Coverage,label_propagation,0.6097,10000.0,2.0,1.5
+Coverage,modularity_optimization,0.633366666667,10000.0,2.0,1.5
+Coverage,oslom,0.595966666667,10000.0,2.0,1.5
+Lancichinetti NMI,blondel,0.0668540666667,10000.0,2.0,1.5
+Lancichinetti NMI,infomap,0.149360333333,10000.0,2.0,1.5
+Lancichinetti NMI,label_propagation,0.178644,10000.0,2.0,1.5
+Lancichinetti NMI,modularity_optimization,0.0,10000.0,2.0,1.5
+Lancichinetti NMI,oslom,0.252975666667,10000.0,2.0,1.5
+Modularity,blondel,0.416733333333,10000.0,2.0,1.5
+Modularity,gold_standard,0.490433333333,10000.0,2.0,1.0
+Modularity,infomap,0.513266666667,10000.0,2.0,1.5
+Modularity,label_propagation,0.569433333333,10000.0,2.0,1.5
+Modularity,modularity_optimization,0.503433333333,10000.0,2.0,1.5
+Modularity,oslom,0.563666666667,10000.0,2.0,1.5
+Scikit-learn NMI,blondel,0.50261116019,10000.0,2.0,1.5
+Scikit-learn NMI,infomap,0.460286094582,10000.0,2.0,1.5
+Scikit-learn NMI,label_propagation,0.399924809894,10000.0,2.0,1.5
+Scikit-learn NMI,modularity_optimization,0.21451799334,10000.0,2.0,1.5
+Scikit-learn NMI,oslom,0.390842242281,10000.0,2.0,1.5
+delta_precison,blondel,0.0190689370845,10000.0,2.0,1.5
+delta_precison,infomap,0.058856504769,10000.0,2.0,1.5
+delta_precison,label_propagation,0.124197530864,10000.0,2.0,1.5
+delta_precison,modularity_optimization,0.0802991452991,10000.0,2.0,1.5
+delta_precison,oslom,0.0,10000.0,2.0,1.5
+delta_recall,blondel,0.979988052569,10000.0,2.0,1.5
+delta_recall,infomap,0.990740740741,10000.0,2.0,1.5
+delta_recall,label_propagation,0.44074927462,10000.0,2.0,1.5
+delta_recall,modularity_optimization,0.278067929681,10000.0,2.0,1.5
+delta_recall,oslom,0.0,10000.0,2.0,1.5
+precison,blondel,0.0178850476368,10000.0,2.0,1.5
+precison,infomap,0.00873483792376,10000.0,2.0,1.5
+precison,label_propagation,0.077037037037,10000.0,2.0,1.5
+precison,modularity_optimization,0.0662820512821,10000.0,2.0,1.5
+precison,oslom,0.0,10000.0,2.0,1.5
+recall,blondel,0.919952210275,10000.0,2.0,1.5
+recall,infomap,0.146714456392,10000.0,2.0,1.5
+recall,label_propagation,0.273323092678,10000.0,2.0,1.5
+recall,modularity_optimization,0.22825567503,10000.0,2.0,1.5
+recall,oslom,0.0,10000.0,2.0,1.5
